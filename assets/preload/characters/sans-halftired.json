@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NoTiredIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				201,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NoTiredLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-64
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NoTiredDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				36
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NoTiredRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NoTiredUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				211,
+				37
+			],
+			"anim": "PegadinhaDoMalandro",
+			"fps": 24,
+			"name": "TiredToNoTired",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sansKindaTired",
+	"position": [
+		10,
+		260
+	],
+	"healthicon": "sans-mentidenuevosoybueno",
+	"flip_x": false,
+	"healthbar_colors": [
+		126,
+		129,
+		195
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

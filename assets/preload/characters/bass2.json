@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				-5,
-				136
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				3,
-				125
+				5,
+				-6
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-25,
-				84
+				-20,
+				-51
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-49,
-				136
+				-46,
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-50,
-				130
+				-48,
+				-7
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				-4,
-				143
+				7,
+				19
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-25,
-				100
+				-15,
+				-19
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-44,
-				136
+				-46,
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-42,
-				143
+				-44,
+				22
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				-13,
-				130
+				-3,
+				5
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,32 +112,76 @@
 		},
 		{
 			"offsets": [
-				-5,
-				136
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
 			],
 			"loop": true,
 			"fps": 24,
 			"anim": "scared",
 			"indices": [],
 			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pedro",
+	"image": "characters/BOYFRIEND",
 	"position": [
 		0,
-		480
+		350
 	],
-	"healthicon": "pedro",
+	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		192,
-		160,
-		0
+		49,
+		176,
+		209
 	],
 	"camera_position": [
 		0,
-		-100
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1

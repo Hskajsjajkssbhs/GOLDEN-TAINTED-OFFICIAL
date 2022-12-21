@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "prunsel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "prunsel down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "prunsel up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "prunsel right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "prunsel idol"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/prunsel",
+	"position": [
+		100,
+		240
+	],
+	"healthicon": "prunsel",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		100,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

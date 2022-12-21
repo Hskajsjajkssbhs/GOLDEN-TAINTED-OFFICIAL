@@ -1,0 +1,186 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SansTiredIdle"
+		},
+		{
+			"offsets": [
+				239,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SansTiredLeft"
+		},
+		{
+			"offsets": [
+				-1,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SansTiredDown"
+		},
+		{
+			"offsets": [
+				-51,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SansTiredRight"
+		},
+		{
+			"offsets": [
+				21,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SansTiredUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				220
+			],
+			"anim": "singUPgrav",
+			"fps": 24,
+			"name": "GravityUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "singDOWNgrav",
+			"fps": 24,
+			"name": "GravityDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-12
+			],
+			"anim": "singRIGHTgrav",
+			"fps": 24,
+			"name": "GravityRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				290,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFTgrav-loop",
+			"indices": [
+				14,
+				15,
+				16,
+				17
+			],
+			"name": "GravityLeft"
+		},
+		{
+			"offsets": [
+				290,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTgrav",
+			"indices": [],
+			"name": "GravityLeft"
+		},
+		{
+			"offsets": [
+				10,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWNgrav-loop",
+			"indices": [
+				16,
+				17,
+				18,
+				19
+			],
+			"name": "GravityDown"
+		},
+		{
+			"offsets": [
+				-28,
+				-12
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHTgrav-loop",
+			"indices": [
+				14,
+				15,
+				16,
+				17
+			],
+			"name": "GravityRight"
+		},
+		{
+			"offsets": [
+				130,
+				220
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUPgrav-loop",
+			"indices": [
+				16,
+				17,
+				18,
+				19
+			],
+			"name": "GravityUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sansTired",
+	"position": [
+		54,
+		283
+	],
+	"healthicon": "mentisoymalo",
+	"flip_x": false,
+	"healthbar_colors": [
+		61,
+		65,
+		169
+	],
+	"camera_position": [
+		30,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

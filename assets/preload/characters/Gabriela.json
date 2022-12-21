@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-1,
-				-9
+				0,
+				-19
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -25,7 +25,7 @@
 		{
 			"offsets": [
 				0,
-				-18
+				-20
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-1,
-				-2
+				0,
+				4
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -47,7 +47,7 @@
 		{
 			"offsets": [
 				0,
-				-8
+				-20
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -188,17 +188,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/Gabriela",
 	"position": [
-		-60,
-		0
+		150,
+		290
 	],
 	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
-		254,
-		147,
-		1
+		165,
+		0,
+		77
 	],
 	"camera_position": [
 		0,

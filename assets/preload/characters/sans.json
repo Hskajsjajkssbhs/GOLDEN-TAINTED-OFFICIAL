@@ -2,143 +2,132 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				136
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF idle dance"
+			"name": "Idle"
 		},
 		{
 			"offsets": [
-				3,
-				125
+				98,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BF NOTE LEFT0"
+			"name": "Left"
 		},
 		{
 			"offsets": [
-				-25,
-				84
+				-8,
+				-47
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BF NOTE DOWN0"
+			"name": "Down"
 		},
 		{
 			"offsets": [
-				-49,
-				136
+				-1,
+				1
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "BF NOTE UP0"
+			"name": "Still"
 		},
 		{
 			"offsets": [
-				-50,
-				130
+				-22,
+				-18
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "Right"
 		},
 		{
 			"offsets": [
-				-4,
-				143
+				-21,
+				-17
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFTmiss",
+			"anim": "singRIGHT-alt",
 			"indices": [],
-			"name": "BF NOTE LEFT MISS"
+			"name": "Right"
 		},
 		{
 			"offsets": [
-				-25,
-				100
+				98,
+				2
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWNmiss",
+			"anim": "singLEFT-alt",
 			"indices": [],
-			"name": "BF NOTE DOWN MISS"
+			"name": "Left"
 		},
 		{
 			"offsets": [
-				-44,
-				136
+				-6,
+				-44
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singUPmiss",
+			"anim": "singDOWN-alt",
 			"indices": [],
-			"name": "BF NOTE UP MISS"
+			"name": "Down"
 		},
 		{
 			"offsets": [
-				-42,
-				143
+				4,
+				12
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHTmiss",
+			"anim": "singUP-alt",
 			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
+			"name": "Bounce"
 		},
 		{
 			"offsets": [
-				-13,
-				130
+				0,
+				-1
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "hey",
+			"anim": "idle-alt",
 			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				-5,
-				136
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
+			"name": "Idle"
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/Pedro",
+	"no_antialiasing": true,
+	"image": "characters/golden_tans",
 	"position": [
 		0,
-		480
+		200
 	],
-	"healthicon": "pedro",
-	"flip_x": true,
+	"healthicon": "none",
+	"flip_x": false,
 	"healthbar_colors": [
-		192,
-		160,
+		255,
+		0,
 		0
 	],
 	"camera_position": [
-		0,
-		-100
+		200,
+		-10
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }
