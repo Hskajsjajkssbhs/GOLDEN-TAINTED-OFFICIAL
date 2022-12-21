@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jukebox.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jukebox Animation instância 10000" x="0" y="0" width="613" height="797" frameX="0" frameY="-40" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10001" x="0" y="0" width="613" height="797" frameX="0" frameY="-40" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10002" x="617" y="0" width="605" height="806" frameX="-4" frameY="-31" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10003" x="617" y="0" width="605" height="806" frameX="-4" frameY="-31" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10004" x="1226" y="0" width="577" height="824" frameX="-18" frameY="-13" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10005" x="1226" y="0" width="577" height="824" frameX="-18" frameY="-13" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10006" x="1807" y="0" width="555" height="834" frameX="-29" frameY="-3" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10007" x="1807" y="0" width="555" height="834" frameX="-29" frameY="-3" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10008" x="2366" y="0" width="551" height="837" frameX="-31" frameY="0" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10009" x="2366" y="0" width="551" height="837" frameX="-31" frameY="0" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10010" x="2366" y="0" width="551" height="837" frameX="-31" frameY="0" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10011" x="2366" y="0" width="551" height="837" frameX="-31" frameY="0" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10012" x="2366" y="0" width="551" height="837" frameX="-31" frameY="0" frameWidth="613" frameHeight="837"/>
+	<SubTexture name="Jukebox Animation instância 10013" x="2366" y="0" width="551" height="837" frameX="-31" frameY="0" frameWidth="613" frameHeight="837"/>
+</TextureAtlas>

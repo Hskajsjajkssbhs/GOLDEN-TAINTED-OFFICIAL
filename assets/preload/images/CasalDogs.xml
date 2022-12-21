@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CasalDogs.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cachorros instância 10000" x="0" y="0" width="759" height="457" frameX="0" frameY="-16" frameWidth="759" frameHeight="473"/>
+	<SubTexture name="Cachorros instância 10001" x="0" y="0" width="759" height="457" frameX="0" frameY="-16" frameWidth="759" frameHeight="473"/>
+	<SubTexture name="Cachorros instância 10002" x="763" y="0" width="754" height="457" frameX="-3" frameY="-16" frameWidth="759" frameHeight="473"/>
+	<SubTexture name="Cachorros instância 10003" x="763" y="0" width="754" height="457" frameX="-3" frameY="-16" frameWidth="759" frameHeight="473"/>
+	<SubTexture name="Cachorros instância 10004" x="1521" y="0" width="747" height="469" frameX="-7" frameY="-4" frameWidth="759" frameHeight="473"/>
+	<SubTexture name="Cachorros instância 10005" x="1521" y="0" width="747" height="469" frameX="-7" frameY="-4" frameWidth="759" frameHeight="473"/>
+	<SubTexture name="Cachorros instância 10006" x="2272" y="0" width="743" height="473" frameX="-8" frameY="0" frameWidth="759" frameHeight="473"/>
+	<SubTexture name="Cachorros instância 10007" x="2272" y="0" width="743" height="473" frameX="-8" frameY="0" frameWidth="759" frameHeight="473"/>
+	<SubTexture name="Cachorros instância 10008" x="2272" y="0" width="743" height="473" frameX="-8" frameY="0" frameWidth="759" frameHeight="473"/>
+	<SubTexture name="Cachorros instância 10009" x="2272" y="0" width="743" height="473" frameX="-8" frameY="0" frameWidth="759" frameHeight="473"/>
+	<SubTexture name="Cachorros instância 10010" x="2272" y="0" width="743" height="473" frameX="-8" frameY="0" frameWidth="759" frameHeight="473"/>
+	<SubTexture name="Cachorros instância 10011" x="2272" y="0" width="743" height="473" frameX="-8" frameY="0" frameWidth="759" frameHeight="473"/>
+</TextureAtlas>

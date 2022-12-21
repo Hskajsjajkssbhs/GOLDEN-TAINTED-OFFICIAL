@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlindDog.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dogcego instância 10000" x="0" y="0" width="502" height="466" frameX="0" frameY="-10" frameWidth="502" frameHeight="476"/>
+	<SubTexture name="Dogcego instância 10001" x="0" y="0" width="502" height="466" frameX="0" frameY="-10" frameWidth="502" frameHeight="476"/>
+	<SubTexture name="Dogcego instância 10002" x="506" y="0" width="500" height="469" frameX="-1" frameY="-7" frameWidth="502" frameHeight="476"/>
+	<SubTexture name="Dogcego instância 10003" x="506" y="0" width="500" height="469" frameX="-1" frameY="-7" frameWidth="502" frameHeight="476"/>
+	<SubTexture name="Dogcego instância 10004" x="1010" y="0" width="490" height="473" frameX="-6" frameY="-3" frameWidth="502" frameHeight="476"/>
+	<SubTexture name="Dogcego instância 10005" x="1010" y="0" width="490" height="473" frameX="-6" frameY="-3" frameWidth="502" frameHeight="476"/>
+	<SubTexture name="Dogcego instância 10006" x="1504" y="0" width="488" height="476" frameX="-7" frameY="0" frameWidth="502" frameHeight="476"/>
+	<SubTexture name="Dogcego instância 10007" x="1504" y="0" width="488" height="476" frameX="-7" frameY="0" frameWidth="502" frameHeight="476"/>
+	<SubTexture name="Dogcego instância 10008" x="1504" y="0" width="488" height="476" frameX="-7" frameY="0" frameWidth="502" frameHeight="476"/>
+	<SubTexture name="Dogcego instância 10009" x="1504" y="0" width="488" height="476" frameX="-7" frameY="0" frameWidth="502" frameHeight="476"/>
+	<SubTexture name="Dogcego instância 10010" x="1504" y="0" width="488" height="476" frameX="-7" frameY="0" frameWidth="502" frameHeight="476"/>
+	<SubTexture name="Dogcego instância 10011" x="1504" y="0" width="488" height="476" frameX="-7" frameY="0" frameWidth="502" frameHeight="476"/>
+</TextureAtlas>

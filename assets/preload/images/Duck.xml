@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Duck.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pato instância 10000" x="0" y="0" width="278" height="327" frameX="0" frameY="-7" frameWidth="278" frameHeight="338"/>
+	<SubTexture name="Pato instância 10001" x="0" y="0" width="278" height="327" frameX="0" frameY="-7" frameWidth="278" frameHeight="338"/>
+	<SubTexture name="Pato instância 10002" x="282" y="0" width="278" height="331" frameX="0" frameY="-4" frameWidth="278" frameHeight="338"/>
+	<SubTexture name="Pato instância 10003" x="282" y="0" width="278" height="331" frameX="0" frameY="-4" frameWidth="278" frameHeight="338"/>
+	<SubTexture name="Pato instância 10004" x="564" y="0" width="273" height="335" frameX="-5" frameY="-2" frameWidth="278" frameHeight="338"/>
+	<SubTexture name="Pato instância 10005" x="564" y="0" width="273" height="335" frameX="-5" frameY="-2" frameWidth="278" frameHeight="338"/>
+	<SubTexture name="Pato instância 10006" x="841" y="0" width="273" height="338" frameX="-5" frameY="0" frameWidth="278" frameHeight="338"/>
+	<SubTexture name="Pato instância 10007" x="841" y="0" width="273" height="338" frameX="-5" frameY="0" frameWidth="278" frameHeight="338"/>
+	<SubTexture name="Pato instância 10008" x="841" y="0" width="273" height="338" frameX="-5" frameY="0" frameWidth="278" frameHeight="338"/>
+	<SubTexture name="Pato instância 10009" x="841" y="0" width="273" height="338" frameX="-5" frameY="0" frameWidth="278" frameHeight="338"/>
+	<SubTexture name="Pato instância 10010" x="841" y="0" width="273" height="338" frameX="-5" frameY="0" frameWidth="278" frameHeight="338"/>
+	<SubTexture name="Pato instância 10011" x="841" y="0" width="273" height="338" frameX="-5" frameY="0" frameWidth="278" frameHeight="338"/>
+</TextureAtlas>

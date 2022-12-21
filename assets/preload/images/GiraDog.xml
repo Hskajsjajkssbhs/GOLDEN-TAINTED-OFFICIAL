@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GiraDog.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dogdopescoco instância 10000" x="0" y="0" width="387" height="1153" frameX="0" frameY="-41" frameWidth="387" frameHeight="1195"/>
+	<SubTexture name="Dogdopescoco instância 10001" x="0" y="0" width="387" height="1153" frameX="0" frameY="-41" frameWidth="387" frameHeight="1195"/>
+	<SubTexture name="Dogdopescoco instância 10002" x="391" y="0" width="384" height="1162" frameX="-3" frameY="-32" frameWidth="387" frameHeight="1195"/>
+	<SubTexture name="Dogdopescoco instância 10003" x="391" y="0" width="384" height="1162" frameX="-3" frameY="-32" frameWidth="387" frameHeight="1195"/>
+	<SubTexture name="Dogdopescoco instância 10004" x="779" y="0" width="370" height="1179" frameX="-5" frameY="-15" frameWidth="387" frameHeight="1195"/>
+	<SubTexture name="Dogdopescoco instância 10005" x="779" y="0" width="370" height="1179" frameX="-5" frameY="-15" frameWidth="387" frameHeight="1195"/>
+	<SubTexture name="Dogdopescoco instância 10006" x="1153" y="0" width="369" height="1195" frameX="-6" frameY="0" frameWidth="387" frameHeight="1195"/>
+	<SubTexture name="Dogdopescoco instância 10007" x="1153" y="0" width="369" height="1195" frameX="-6" frameY="0" frameWidth="387" frameHeight="1195"/>
+	<SubTexture name="Dogdopescoco instância 10008" x="1153" y="0" width="369" height="1195" frameX="-6" frameY="0" frameWidth="387" frameHeight="1195"/>
+	<SubTexture name="Dogdopescoco instância 10009" x="1153" y="0" width="369" height="1195" frameX="-6" frameY="0" frameWidth="387" frameHeight="1195"/>
+	<SubTexture name="Dogdopescoco instância 10010" x="1153" y="0" width="369" height="1195" frameX="-6" frameY="0" frameWidth="387" frameHeight="1195"/>
+	<SubTexture name="Dogdopescoco instância 10011" x="1153" y="0" width="369" height="1195" frameX="-6" frameY="0" frameWidth="387" frameHeight="1195"/>
+</TextureAtlas>
