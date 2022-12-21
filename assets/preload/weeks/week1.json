@@ -1,22 +1,50 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
-	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+  "storyName": "timeskip garcello / knowin' another story",
+  "difficulties": "timeskip",
+  "hideFreeplay": false,
+  "weekBackground": "",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "weekBefore": "tutorial",
+  "startUnlocked": true,
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "songs": [
+    [
+      "Reunion",
+      "timegar",
+      [
+        96,
+        142,
+        204
+      ]
+    ],
+    [
+      "Sweet Tooth",
+      "timegar",
+      [
+        96,
+        142,
+        204
+      ]
+    ],
+    [
+      "Stay",
+      "timegar",
+      [
+        96,
+        142,
+        204
+      ]
+    ]
+  ],
+  "hideStoryMode": false,
+  "weekName": "Tim",
+  "hiddenUntilUnlocked": false
 }
